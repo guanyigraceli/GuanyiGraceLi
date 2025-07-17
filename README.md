@@ -26,7 +26,7 @@ A collection of works from 2021 to 2025.</p>
 <h2 align="center">PORTFOLIO HIGHLIGHTS</h2>
 
 <p align="center">
-  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/IMG_7307.jpg" width="70%" alt="Artwork 1"/><br/><br/>
   <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
   <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
 </p>
