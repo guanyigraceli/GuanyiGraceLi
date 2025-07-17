@@ -18,7 +18,23 @@ A collection of works from 2021 to 2025.</p>
 <h2 align="center">ABOUT</h2>
 
 <p align="center">
-  <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" width="30%" alt="Artwork 1"/>  Guanyi Grace Li is a Student at Texas A&M University studying accounting, finance, and studio art.
+  <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="90%">
+      </td>
+      <td width="50%" align="center">
+        <p>
+          I am Guanyi Grace Li, a student at Texas A&M University
+          studying accounting, finance, and studio art. I created
+          this website for the fruits of my hobbies, and hope you
+          enjoy your visit.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
   
 </p>
 
