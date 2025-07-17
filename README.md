@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="IMG_7307.jpg" width="35%" alt="Artwork 1"/>   <img src="IMG_9625.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_0049.jpg" width="25%" alt="Artwork 2"/><br/><br/>
-  <img src="IMG_1511.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7207.jpg" width="25%" alt="Artwork 1"/>   <img src="IMG_4142.jpg" width="25%" alt="Artwork 1"/>
+  <img src="IMG_1511.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7207.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_4142.jpg" width="30%" alt="Artwork 1"/>
 </p>
 
 ---
