@@ -24,22 +24,12 @@
 
 ---
 
-<h2 align="center">Portfolio Highlights</h2>
+<h2 align="center">PORTFOLIO HIGHLIGHTS</h2>
 
 <p align="center">
   <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
   <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
   <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
-</p>
-
----
-
-<h2 align="center">Tools & Skills</h2>
-
-<p align="center">
-  <strong>Digital:</strong> Procreate, Photoshop, Illustrator, Clip Studio Paint<br/>
-  <strong>Traditional:</strong> Watercolor, ink, graphite<br/>
-  <strong>Skills:</strong> Visual storytelling, composition, color theory, character design
 </p>
 
 ---
