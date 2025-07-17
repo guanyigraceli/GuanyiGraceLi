@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">ABOUT</h2>
+<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
 
 <p align="center">
   <div align="center">
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">PORTFOLIO HIGHLIGHTS</h2>
+<h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
   <img src="IMG_7307.jpg" width="30%" alt="Artwork 1"/>  <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">OIL PAINTING</h2>
+<h2 align="center"𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬</h2>
 
 <p align="center">
   <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
