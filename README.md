@@ -13,35 +13,6 @@
 </p>
 
 ---
-
-<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
-
-<p align="center">
-  <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td width="30%" align="center">
-        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
-      </td>
-      <td width="60%" align="left">
-        <p>
-          Howdy! My name is Guanyi Grace Li, a 19 year old from Houston, Texas.
-          I'm currently a rising junior at Texas A&M University pursuing 
-          my BBA in Accounting and MS in Financial Management.
-          More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
-          Aside from reading and going on long walks, art is my favorite creative side quest, 
-          and it's definitely been the one I've been doing the longest. 
-          In fact, one of my earliest memories is of my mom stuffing a paintbrush into my clenched fist.
-          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-  
-</p>
-
----
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
@@ -91,7 +62,33 @@
 
 ---
 
-<h2 align="center">CONTACT</h2>
+<h2 align="center">𝑨𝑩𝑶𝑼𝑻</h2>
+
+<p align="center">
+  <div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="30%" align="center">
+        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
+      </td>
+      <td width="60%" align="left">
+        <p>
+          Howdy! My name is Guanyi Grace Li, a 19 year old from Houston, Texas.
+          I'm currently a rising junior at Texas A&M University pursuing 
+          my BBA in Accounting and MS in Financial Management.
+          More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
+          Aside from reading and going on long walks, art is my favorite creative side quest, 
+          and it's definitely been the one I've been doing the longest. 
+          In fact, one of my earliest memories is of my mom stuffing a paintbrush into my clenched fist.
+          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+  
+</p>
+<h2 align="center">𝑪𝑶𝑵𝑻𝑨𝑪𝑻</h2>
 
 <p align="center">
   Open to business inquiries at guanyigrace@gmail.com<br/>
@@ -101,5 +98,5 @@
 ---
 
 <p align="center">
-  <em>Thank you for visiting! </em><br/>
+  <em>Thank you for visiting, I hope to see you again!</em><br/>
 </p>
