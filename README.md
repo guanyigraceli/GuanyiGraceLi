@@ -6,8 +6,9 @@
 <p align="center">A collection of works from 2021 to 2025.</p>
 
 <p align="center">
-  <a href="https://instagram.com/kingguanyi" target="_blank">Instagram</a> •
-  <a href="guanyigrace@gmail.com">Email</a>
+  <a href="https://instagram.com/kingguanyi" target="_blank">instagram</a> •
+  <a href="guanyigrace@gmail.com">email</a> •
+  <a href="281-707-8670">phone</a>
 </p>
 
 ---
