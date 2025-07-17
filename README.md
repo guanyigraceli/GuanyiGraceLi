@@ -33,6 +33,46 @@ A collection of works from 2021 to 2025.</p>
 
 ---
 
+<h2 align="center">OIL PAINTING</h2>
+
+<p align="center">
+  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
+  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+</p>
+
+---
+
+<h2 align="center">CHARCOAL & GRAPHITE</h2>
+
+<p align="center">
+  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
+  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+</p>
+
+---
+
+<h2 align="center">DIGITAL MEDIA</h2>
+
+<p align="center">
+  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
+  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+</p>
+
+---
+
+<h2 align="center">SKETCHBOOK PAGES</h2>
+
+<p align="center">
+  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
+  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+</p>
+
+---
+
 <h2 align="center">CONTACT</h2>
 
 <p align="center">
