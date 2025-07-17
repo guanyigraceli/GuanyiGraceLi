@@ -5,9 +5,8 @@
 <h1 align="center"> GUANYI GRACE LI </h1>
 
 <p align="center">
-  Welcome to my digital art portfolio!<br/>
-  Explore my works, see my creative journey, and feel free to connect with me.
-</p>
+  FINE ARTS | PHOTOGRAPHY | DESIGN<br/>
+A collection of works from 2021 to 2025.</p>
 
 <p align="center">
   <a href="https://instagram.com/kingguanyi" target="_blank">Instagram</a> •
@@ -34,7 +33,7 @@
 
 ---
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">CONTACT</h2>
 
 <p align="center">
   Open to business inquiries<br/>
@@ -44,5 +43,5 @@
 ---
 
 <p align="center">
-  <em>Thank you for visiting my website! </em><br/>
+  <em>Thank you for visiting! </em><br/>
 </p>
