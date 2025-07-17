@@ -19,12 +19,12 @@ A collection of works from 2021 to 2025.</p>
 
 <p align="center">
   <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td width="50%" align="center">
+      <td width="30%" align="center">
         <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="40%">
       </td>
-      <td width="50%" align="center">
+      <td width="70%" align="center">
         <p>
           I am Guanyi Grace Li, a student at Texas A&M University
           studying accounting, finance, and studio art. I created
