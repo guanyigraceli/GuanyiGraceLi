@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Art Banner" width="80%">
-</p>
+
 
 <h1 align="center"> ┗━━━━━━⊱ 𝑮𝑼𝑨𝑵𝒀𝑰 𝑮𝑹𝑨𝑪𝑬 𝑳𝑰 ⊰━━━━━━┛ </h1>
 
