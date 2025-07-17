@@ -34,7 +34,7 @@
 <h2 align="center">𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬 </h2>
 
 <p align="center">
-  <img src="IMG_0021.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="25%" alt="Artwork 1"/>   <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/><br/><br/>
+  <img src="IMG_0021.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="27%" alt="Artwork 1"/>   <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/><br/><br/>
   <img src="IMG_7623.jpg" width="23%" alt="Artwork 1"/>   <img src="IMG_2364.jpg" width="40%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="23%" alt="Artwork 1"/>
 </p>
 
