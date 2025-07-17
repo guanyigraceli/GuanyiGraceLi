@@ -76,7 +76,7 @@ A collection of works from 2021 to 2025.</p>
 <h2 align="center">CONTACT</h2>
 
 <p align="center">
-  Open to business inquiries<br/>
+  Open to business inquiries at guanyigrace@gmail.com<br/>
   <a href="guanyigrace@gmail.com">
 </p>
 
