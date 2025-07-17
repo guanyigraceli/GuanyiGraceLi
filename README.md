@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">📁 Portfolio Highlights</h2>
+<h2 align="center">Portfolio Highlights</h2>
 
 <p align="center">
   <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">🧰 Tools & Skills</h2>
+<h2 align="center">Tools & Skills</h2>
 
 <p align="center">
   <strong>Digital:</strong> Procreate, Photoshop, Illustrator, Clip Studio Paint<br/>
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">Contact Me</h2>
 
 <p align="center">
   Open to business inquiries<br/>
