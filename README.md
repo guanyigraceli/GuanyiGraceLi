@@ -16,18 +16,20 @@
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
-  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
-  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
-  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+  <img src="IMG_7623.jpg" width="70%" alt="Artwork 1"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_7623.jpg" width="70%" alt="Artwork 2"/>   <img src="IMG_4137.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_4351.jpg" width="70%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_7623.jpg" width="70%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="25%" alt="Artwork 1"/>
+  
 </p>
 ---
 
 <h2 align="center">𝑷𝑨𝑰𝑵𝑻</h2>
 
 <p align="center">
-  <img src="IMG_7307.jpg" width="30%" alt="Artwork 1"/>  <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
-  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
-  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+  <img src="IMG_7307.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_0049.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_4142.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_1511.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7207.jpg" width="25%" alt="Artwork 1"/>
 </p>
 
 ---
@@ -35,9 +37,9 @@
 <h2 align="center">𝑴𝑶𝑵𝑶𝑪𝑯𝑹𝑶𝑴𝑬 </h2>
 
 <p align="center">
-  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
-  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
-  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+  <img src="IMG_0021.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_2364.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/>
 </p>
 
 ---
