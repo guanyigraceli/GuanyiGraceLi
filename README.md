@@ -38,8 +38,8 @@
 
 <p align="center">
   <img src="IMG_0021.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_4071.JPG" width="25%" alt="Artwork 1"/><br/><br/>
-  <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/><br/><br/>
-  <img src="IMG_2364.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_9625.jpg" width="25%" alt="Artwork 1"/>
+  <img src="IMG_1895.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_7623.jpg" width="25%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_2364.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_7706.jpg" width="25%" alt="Artwork 1"/>
 </p>
 
 ---
