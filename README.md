@@ -16,7 +16,7 @@
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
-  <img src="IMG_4179.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_3904.png" width="30%" alt="Artwork 1"/><br/><br/>
+  <img src="IMG_4179.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_3904.PNG" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_2372.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_4137.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_4351.jpg" width="30%" alt="Artwork 2"/>   <img src="IMG_7568.jpg" width="30%" alt="Artwork 1"/><br/><br/>
   <img src="IMG_7623.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_4720.jpg" width="30%" alt="Artwork 1"/>
