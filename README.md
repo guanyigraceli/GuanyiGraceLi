@@ -18,7 +18,8 @@ A collection of works from 2021 to 2025.</p>
 <h2 align="center">ABOUT</h2>
 
 <p align="center">
-  Guanyi Grace Li is a Student at Texas A&M University studying accounting, finance, and studio art.
+  <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" width="30%" alt="Artwork 1"/>  Guanyi Grace Li is a Student at Texas A&M University studying accounting, finance, and studio art.
+  
 </p>
 
 ---
