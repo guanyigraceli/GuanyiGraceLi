@@ -52,8 +52,8 @@
 <h2 align="center">𝑭𝑳𝑰𝑪𝑲𝑺</h2>
 
 <p align="center">
-  <img src="IMG_3406.jpg" width="35%" alt="Artwork 1"/>   <img src="IMG_3583.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
-  <img src="IMG_3373.jpg" width="30%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="30%" alt="Artwork 1"/>
+  <img src="IMG_3406.jpg" width="35%" alt="Artwork 1"/>   <img src="IMG_3583 (1).jpg" width="30%" alt="Artwork 1"/>   <img src="IMG_3428.jpg" width="25%" alt="Artwork 2"/><br/><br/>
+  <img src="IMG_3373.jpg" width="27%" alt="Artwork 3"/>   <img src="IMG_3357.jpg" width="27%" alt="Artwork 1"/>   <img src="IMG_8951.jpg" width="35%" alt="Artwork 1"/>
 </p>
 
 ---
