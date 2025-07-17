@@ -1,2 +1,7 @@
-#                                   GUANYI GRACE LI
+<p align="center">
+# GUANYI GRACE LI
 ### FINE ARTS | PHOTOGRAPHY | DESIGN
+</p>
+# FINE ARTS
+# PHOTOGRAPHY
+# DESIGN
