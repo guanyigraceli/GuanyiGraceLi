@@ -23,7 +23,7 @@
       <td width="30%" align="center">
         <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
       </td>
-      <td width="70%" align="center">
+      <td width="70%" align="left">
         <p>
           Howdy! My name is Guanyi Grace Li, a 19 year old from Houston, Texas.
           I'm currently a junior at Texas A&M University pursuing my BBA in Accounting and MS in Finance.
