@@ -5,8 +5,7 @@
 <h1 align="center"> GUANYI GRACE LI </h1>
 
 <h4 align="center">Fine Arts | Photography | Design </h4>
-<p align="center">
-A collection of works from 2021 to 2025.</p>
+<p align="center">A collection of works from 2021 to 2025.</p>
 
 <p align="center">
   <a href="https://instagram.com/kingguanyi" target="_blank">Instagram</a> •
