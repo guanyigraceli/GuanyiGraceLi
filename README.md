@@ -5,7 +5,7 @@
 <h1 align="center"> GUANYI GRACE LI </h1>
 
 <p align="center">
-  FINE ARTS | PHOTOGRAPHY | DESIGN<br/>
+  Fine Arts | Photography | Design<br/>
 A collection of works from 2021 to 2025.</p>
 
 <p align="center">
@@ -64,6 +64,16 @@ A collection of works from 2021 to 2025.</p>
 ---
 
 <h2 align="center">SKETCHBOOK PAGES</h2>
+
+<p align="center">
+  <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
+  <img src="https://your-image-link.com/art2.jpg" width="70%" alt="Artwork 2"/><br/><br/>
+  <img src="https://your-image-link.com/art3.jpg" width="70%" alt="Artwork 3"/>
+</p>
+
+---
+
+<h2 align="center">PHOTOGRAPHY</h2>
 
 <p align="center">
   <img src="https://your-image-link.com/art1.jpg" width="70%" alt="Artwork 1"/><br/><br/>
