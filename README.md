@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="Untitled_Artwork (3).PNG" width="70%" alt="Artwork 1"/><br/><br/>
-  <img src="Untitled_Artwork (5).PNG" width="30%" alt="Artwork 6"/>   <img src="Untitled_Artwork (4).PNG" width="30%" alt="Artwork 2"/>   <img src="Untitled_Artwork (6).PNG" width="30%" alt="Artwork 3"/>
+  <img src="Untitled_Artwork (5).PNG" width="25%" alt="Artwork 6"/>   <img src="Untitled_Artwork (4).PNG" width="40%" alt="Artwork 2"/>   <img src="Untitled_Artwork (6).PNG" width="23%" alt="Artwork 3"/>
 </p>
 
 ---
