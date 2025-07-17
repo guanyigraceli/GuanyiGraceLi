@@ -23,12 +23,16 @@
       <td width="30%" align="center">
         <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="80%">
       </td>
-      <td width="30%" align="left">
+      <td width="60%" align="left">
         <p>
           Howdy! My name is Guanyi Grace Li, a 19 year old from Houston, Texas.
-          I'm currently a junior at Texas A&M University pursuing my BBA in Accounting and MS in Finance.
+          I'm currently a rising junior at Texas A&M University pursuing 
+          my BBA in Accounting and MS in Financial Management.
           More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
-          Aside from reading and sleeping, art is my favorite creative side quest, and I hope you enjoy your visit here.
+          Aside from reading and going on long walks, art is my favorite creative side quest, 
+          and it's definitely been the one I've been doing the longest. 
+          In fact, one of my earliest memories is of my mom stuffing a paintbrush into my clenched fist.
+          This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
         </p>
       </td>
     </tr>
