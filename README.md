@@ -22,7 +22,7 @@ A collection of works from 2021 to 2025.</p>
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="90%">
+        <img src="E08FA552-DF5B-40D7-8753-B696321E9BA6.jpg" alt="Sample Art" width="40%">
       </td>
       <td width="50%" align="center">
         <p>
