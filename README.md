@@ -1,1 +1,2 @@
-# guanyigraceli.github.io
+# GUANYI GRACE LI
+### FINE ARTS | PHOTOGRAPHY | DESIGN
