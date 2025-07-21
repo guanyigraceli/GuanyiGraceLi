@@ -84,9 +84,8 @@
       </td>
       <td width="60%" align="left" style="border: none;">
         <p>
-          Howdy! My name is Guanyi Grace Li, a 19 year old from Houston, Texas.
-          I'm currently a rising junior at Texas A&M University pursuing 
-          my BBA in Accounting and MS in Financial Management.
+          Howdy! My name is Guanyi Grace Li, a 19 year old junior at Texas A&M University pursuing 
+          a BBA in Accounting and MS in Financial Management.
           More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
           Aside from reading and going on long walks, art is my favorite creative side quest, 
           and it's definitely been the one I've been doing the longest. 
@@ -102,9 +101,8 @@
 
 <p align="center">
   Open to business inquiries at guanyigrace@gmail.com<br/>
-  <a href="guanyigrace@gmail.com">
 </p>
-
+</p>
 ---
 
 <p align="center">
