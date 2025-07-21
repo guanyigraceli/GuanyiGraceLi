@@ -1,5 +1,5 @@
 
-<p>  <br/><br/><br/><br/></p>
+<p>  <br/><br/><br/></p>
 <h1 align="center"> 𝑮𝑼𝑨𝑵𝒀𝑰 𝑮𝑹𝑨𝑪𝑬 𝑳𝑰 </h1>
 
 <h2 align="center">Fine Arts | Photography | Design </h2>
