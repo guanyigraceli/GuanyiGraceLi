@@ -19,7 +19,7 @@
   <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="32%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="32%" alt="Artwork 2"/>   <img src="IMG_0339 (1).jpg" width="30%" alt="Artwork 1"/>
 
   <h2 align="center">Open for Business Inquiries</h2>
-<p align="center">Rates: $0.50/sq in of chalkboard | Payment accepted through cash, Zelle, or gift card | Chalk markers supplied, just give me the board!</p>
+<p align="center">Rates: $0.25-0.50/sq in of chalkboard (varies with detail) | Payment accepted through cash, Zelle, or gift card | Chalk markers supplied, just give me the board!</p>
 <p align="center">Examples are my work from Pappasito's Cantina, Sugar Land, 2023.</p>
 
 </p>
