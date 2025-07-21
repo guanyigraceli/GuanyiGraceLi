@@ -21,6 +21,7 @@
 <p align="center">Rates: $0.25-0.50/sq in of chalkboard (varies with detail) | Payment accepted through cash, Zelle, or gift card | Chalk markers provided</p>
 <p align="center">Examples are my work from Pappasito's Cantina, Sugar Land, 2023.</p>
 
+
 </p>
 
 ---
