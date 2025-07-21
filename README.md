@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://instagram.com/kingguanyi" target="_blank">instagram</a> •
-  <a href="guanyigrace@gmail.com">email</a> •
+  <a href="guanyigrace@gmail.com">email</a>
 </p>
 
 ---
