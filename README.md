@@ -12,6 +12,15 @@
 </p>
 
 ---
+<h2 align="center">𝑪𝑯𝑨𝑳𝑲𝑩𝑶𝑨𝑹𝑫 𝑨𝑫𝑺</h2>
+
+<p align="center">
+  <img src="IMG_5734.jpg" width="35%" alt="Artwork 1"/>   <img src="37c541f4ea3730d9e0deaa1820e548c9.jpg" width="35%" alt="Artwork 1"/>   <img src="8caee74cd8aa87f37bc12f53c5ff5aee.jpg" width="35%" alt="Artwork 1"/><br/><br/>
+  <img src="16930B22-26BF-4A03-BE0F-C17654584A51.heic" width="45%" alt="Artwork 2"/>   <img src="bad071ce297e187d327b0feb26507510.jpg" width="45%" alt="Artwork 1"/>
+  
+</p>
+
+---
 <h2 align="center">𝑺𝑲𝑬𝑻𝑪𝑯𝑩𝑶𝑶𝑲</h2>
 
 <p align="center">
@@ -75,7 +84,6 @@
           More excitingly, I'm also completing a minor in Studio Art, a subject I've loved forever.
           Aside from reading and going on long walks, art is my favorite creative side quest, 
           and it's definitely been the one I've been doing the longest. 
-          In fact, one of my earliest memories is of my mom stuffing a paintbrush into my clenched fist.
           This website's purpose is to document my hobby so I can look back on my favorite pieces, skill development, and progression.
         </p>
       </td>
