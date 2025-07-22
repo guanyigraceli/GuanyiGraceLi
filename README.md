@@ -103,8 +103,6 @@
   Open to business inquiries at guanyigrace@gmail.com<br/>
 </p>
 
-</p>
-
 ---
 
 <p align="center">
